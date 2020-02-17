@@ -1,4 +1,3 @@
-
 #include <SD.h> //Load SD library
 #include <Wire.h>
 #include <FaBo9Axis_MPU9250.h>
